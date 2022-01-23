@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="major">
+
+        <item>컴정</item>
+        <item>스마트</item>
+        <item>게임멀티</item>
+
+    </string-array>
+
+</resources>
